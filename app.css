@@ -1,0 +1,26 @@
+* {
+  background-color: black;
+}
+.pokemon {
+  display: inline-block;
+  text-align: center;
+}
+.pokemon img {
+  display: block;
+  transition: 0.2s;
+}
+.pokemon img:hover {
+    transform: scale(1.5);
+}
+h1 {
+  font-family: monospace;
+  font-size: 250%;
+  text-align: center;
+  text-decoration: underline dotted yellowgreen;
+  font-weight: 100;
+  color: orangered;
+}
+
+.Label {
+    color: white; 
+}
